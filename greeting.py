@@ -8,7 +8,5 @@ def greet():
         message = 'Hello'
     else:
         message = 'Good evening'
-    print(message)
-
 
 greet()
